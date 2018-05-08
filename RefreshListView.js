@@ -107,6 +107,8 @@ class RefreshListView extends PureComponent<Props, State> {
         let {renderItem, ...rest} = this.props
 
         return (
+		  <View style={this.props.style}>
+                {this.props.ListHeaderComponentFix}
             <FlatList
                 ref={this.props.listRef}
                 onEndReached={this.onEndReached}
@@ -119,6 +121,7 @@ class RefreshListView extends PureComponent<Props, State> {
 
                 {...rest}
             />
+			</View>
         )
     }
 
