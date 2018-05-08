@@ -21,7 +21,7 @@
 
 ### NPM
 ```
-npm install --save react-native-refresh-list-view
+npm install --save rn-refresh-list-view
 ```
 
 ### 手动安装
