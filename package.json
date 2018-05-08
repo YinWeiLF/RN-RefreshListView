@@ -1,5 +1,5 @@
 {
-  "name": "react-native-refresh-list-view",
+  "name": "rn-refresh-list-view",
   "version": "1.0.8",
   "description": "A list component that can be pulled up & down to refresh, based on FlatList",
   "main": "RefreshListView.js",
@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huanxsd/react-native-refresh-list-view.git"
+    "url": "git+https://github.com/YinWeiLF/RN-RefreshListView.git"
   },
   "author": "Daniel Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huanxsd/react-native-refresh-list-view/issues"
+    "url": "https://github.com/YinWeiLF/RN-RefreshListView.git/issues"
   },
-  "homepage": "https://github.com/huanxsd/react-native-refresh-list-view#readme"
+  "homepage": "https://github.com/YinWeiLF/RN-RefreshListView.git#readme"
 }
