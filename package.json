@@ -1,6 +1,6 @@
 {
   "name": "rn-refresh-list-view",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "description": "A list component that can be pulled up & down to refresh, based on FlatList",
   "main": "RefreshListView.js",
   "scripts": {
